@@ -1,0 +1,1 @@
+This script send an email and beeps when a product is available on the decathlon website
